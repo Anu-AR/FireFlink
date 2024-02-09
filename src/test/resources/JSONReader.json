@@ -1,0 +1,18 @@
+{
+  
+
+"employee":
+	{
+	"employeename":"anupama",
+	"Salary" : 35000,
+	"Designation" : "SE"
+	},
+	"employee1":
+	{
+	"employeename":"Aarna",
+	"Salary" : 89000,
+	"Designation" : "ASE"
+	}
+	
+
+}
